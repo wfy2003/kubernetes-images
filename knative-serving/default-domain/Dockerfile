@@ -1,0 +1,1 @@
+FROM https://github.com/knative/serving/releases/download/knative-v1.13.1/serving-default-domain.yaml
