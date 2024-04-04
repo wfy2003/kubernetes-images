@@ -1,1 +1,1 @@
-FROM https://github.com/knative/serving/releases/download/knative-v1.13.1/serving-default-domain.yaml
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/default-domain@sha256:0a9bf78e49c9de18a9737d4e8fa95c3f44963c5b5f720e518c3714a21c5443a1
