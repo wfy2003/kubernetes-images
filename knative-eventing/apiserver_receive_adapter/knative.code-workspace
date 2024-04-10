@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "kubernetes-images",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
